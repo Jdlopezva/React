@@ -43,7 +43,7 @@ export default function Routes() {
       <ScrollToTop/>
       <Switch>
 
-        <Route exact path="/" exact>
+        <Route exact path="/">
           <Landing />
         </Route>
 
